@@ -12,10 +12,19 @@ Here are some ideas to get you started:
 -  Pronouns: ...
 -  Fun fact: ...
 -->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huitaek&show_icons=true&theme=radical)](https://github.com/huitaek/huitaek)
+
+
+
 <h1 align="center">huitaek</h1>
 
 <h3 >⚡프로젝트</h3>
--
+
+<!--
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huitaek&repo=kostat-aicontest)](https://github.com/huitaek/kostat-aicontest)
+-->
+
 
 <h3>😄목표</h3>
 데이터 분석 전문가가 되는 것이 목표입니다.
