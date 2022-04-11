@@ -21,7 +21,11 @@ Here are some ideas to get you started:
 
 <h3 >⚡프로젝트</h3>
 + 경북대학교 빅데이터 분석가 양성과정
-  - https://github.com/huitaek/project-nlp
+  + 자연어 처리 프로젝트 https://github.com/huitaek/project-nlp
+
++ 개인 프로젝트
++ 공모전
+  + 통계청 AI 경진대회 
 
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huitaek&repo=kostat-aicontest)](https://github.com/huitaek/kostat-aicontest)
