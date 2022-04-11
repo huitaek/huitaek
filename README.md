@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 <h1 align="center">Huitaek Jung</h1>
 
+<h3><b>📊통계</b></h3>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huitaek&show_icons=true&theme=radical)](https://github.com/huitaek/huitaek)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huitaek&theme=radical&layout=compact)](https://github.com/huitaek/huitaek) 
