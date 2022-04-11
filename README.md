@@ -13,19 +13,22 @@ Here are some ideas to get you started:
 -  Fun fact: ...
 -->
 
+<h1 align="center">Huitaek Jung</h1>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huitaek&show_icons=true&theme=radical)](https://github.com/huitaek/huitaek)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huitaek&theme=radical&layout=compact)](https://github.com/huitaek/huitaek) 
 
+<h3><b>⚡프로젝트</b></h3>
 
-<h1 align="center">huitaek</h1>
++ <b>경북대학교 빅데이터 분석가 양성과정</b>
 
-<h3 >⚡프로젝트</h3>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huitaek&repo=project_mini_analyze_waste&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-+ 경북대학교 빅데이터 분석가 양성과정
-  + 자연어 처리 프로젝트
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huitaek&repo=project-nlp&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-+ 개인 프로젝트
-+ 공모전
++ <b>개인 프로젝트</b>
++ <b>공모전</b>
   + 통계청 AI 경진대회 
 
 <!--
