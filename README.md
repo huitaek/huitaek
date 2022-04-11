@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <h3 >⚡프로젝트</h3>
 + 경북대학교 빅데이터 분석가 양성과정
-  + 자연어 처리 프로젝트 https://github.com/huitaek/project-nlp
+  + 자연어 처리 프로젝트
 
 + 개인 프로젝트
 + 공모전
