@@ -29,10 +29,12 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huitaek&repo=project-nlp&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+
+
 + <b>개인 프로젝트</b>
 + <b>공모전</b>
-  + 통계청 AI 경진대회 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huitaek&repo=contest-kostat-ai&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huitaek&repo=kostat-aicontest)](https://github.com/huitaek/kostat-aicontest)
 -->
