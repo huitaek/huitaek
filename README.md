@@ -25,16 +25,16 @@ Here are some ideas to get you started:
 
 + <b>경북대학교 빅데이터 분석가 양성과정</b>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huitaek&repo=project_mini_analyze_waste&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huitaek&repo=project_mini_analyze_waste&theme=radical)](https://github.com/huitaek/project_mini_analyze_waste)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huitaek&repo=project-nlp&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huitaek&repo=project-nlp&theme=radical)](https://github.com/huitaek/project-nlp)
 
 
 
 + <b>개인 프로젝트</b>
 + <b>공모전</b>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huitaek&repo=contest-kostat-ai&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huitaek&repo=contest-kostat-ai&theme=radical)](https://github.com/huitaek/contest-kostat-ai)
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huitaek&repo=kostat-aicontest)](https://github.com/huitaek/kostat-aicontest)
 -->
